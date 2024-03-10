@@ -53,6 +53,18 @@ table {
 body {
 	-webkit-text-size-adjust: none;
 }
+/* Updated CSS */
+.video-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.video-gif {
+    width: 55%;
+    height: auto;
+    max-width: 55%;
+}
+
 
 mark {
 	background-color: transparent;
