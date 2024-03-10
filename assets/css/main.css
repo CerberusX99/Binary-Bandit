@@ -64,6 +64,11 @@ body {
     height: auto;
     max-width: 55%;
 }
+.contact-image {
+    max-width: 100%;
+    width: 50%; /* Adjust the percentage to make the image smaller */
+}
+
 
 
 mark {
